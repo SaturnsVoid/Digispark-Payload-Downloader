@@ -10,3 +10,7 @@ Buy a clone Digispark: http://www.alibaba.com/trade/search?fsb=y&IndexArea=produ
 
 Simply edit to download url and change the drop path, compile, copy to Digispark. 
 Then everytime you plug in the digispark to a Windows PC it will download and run the PAYLOAD as admin.
+
+# Donations
+<img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+<p align="center">Please Donate To Bitcoin Address: <b>1AEbR1utjaYu3SGtBKZCLJMRR5RS7Bp7eE</b></p>
